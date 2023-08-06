@@ -1,0 +1,12 @@
+.doughnut-chart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 1rem;
+
+}
+.doughnut-chart > canvas {
+    /* margin-top: 1.5rem; */
+    width: 450px !important;
+    height: auto !important;
+}
